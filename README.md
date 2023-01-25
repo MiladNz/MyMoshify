@@ -1,2 +1,2 @@
 # MyMoshify
-Codewithmosh.com - The Ultimate HTML CSS Course - Fiinal Project : My Moshify
+Codewithmosh.com - The Ultimate HTML CSS Course - Final Project : My Moshify
